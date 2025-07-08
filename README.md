@@ -33,3 +33,8 @@ Este proyecto es una **API REST básica desarrollada en Java con Spring Boot**, 
 
 3. Ejecutar la aplicación:
    ./mvnw spring-boot:run
+
+👨‍💻 Autor
+Joahan Carlo Nuñez
+GitHub
+LinkedIn
